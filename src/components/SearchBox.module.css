@@ -30,7 +30,6 @@
 @media (max-width:500px){
   .search{
     width: 100%;
-    margin: 0;
-    padding-left: 20%;
+    margin-left: 20%;
   }
 }
