@@ -27,9 +27,12 @@
   cursor: pointer;
 }
 
-@media (max-width:500px){
-  .search{
+@media (max-width: 500px) {
+  .search {
+    /* width: 100%; */
+    margin: inherit auto;
+  }
+  .search input {
     width: 100%;
-    margin: 0 0 0 6%;
-    }
+  }
 }
