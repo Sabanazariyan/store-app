@@ -37,3 +37,9 @@
     color: #fe5d42;
     border-radius: 10px;
 }
+
+@media (max-width:500px){
+  .sidebar{
+    margin: 0 auto 40px;
+  }
+}
